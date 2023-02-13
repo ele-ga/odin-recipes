@@ -8,6 +8,10 @@ img {
     width: 500px;
 }
 
+#home-img {
+    height: auto;
+    width: 600px;
+}
 
 h1 , h2, h3 {
     font-family: Geogia, "Times New Roman", serif;
