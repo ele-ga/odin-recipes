@@ -19,6 +19,7 @@ img {
 
 h1 , h2, h3 {
     font-family: Geogia, "Times New Roman", serif;
+    color:#097423;
 }
 
 h1 {
@@ -34,7 +35,7 @@ h3 {
 }
 
 a {
-    color: #07551b;
+    color:#097423;
     font-weight: bold;
 }
 
