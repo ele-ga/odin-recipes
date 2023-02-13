@@ -23,3 +23,7 @@ a {
     color: #07551b;
     font-weight: bold;
 }
+
+.title {
+    background-color: rgb(131, 255, 197);
+}
