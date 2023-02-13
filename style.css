@@ -3,6 +3,12 @@ body {
     font-size: 18px;
 }
 
+img {
+    height: auto;
+    width: 500px;
+}
+
+
 h1 , h2, h3 {
     font-family: Geogia, "Times New Roman", serif;
 }
